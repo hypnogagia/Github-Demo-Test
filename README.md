@@ -1,3 +1,3 @@
 # GITHUB DEMO TEST
 
-Here for the first time testing the github.
+Made this repo to play and experiment with github.
